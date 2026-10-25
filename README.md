@@ -6,7 +6,7 @@ how many leads are in each status and what the conversion rate is.
 
 All the data is made up. It isn't connected to EXPA.
 
-![Dashboard screenshot](docs/screenshot1.png)
+![Dashboard screenshot](docs/screenshot.png)
 
 **Live link:** https://aiesec-lead-dashboard.vercel.app/ 
 
