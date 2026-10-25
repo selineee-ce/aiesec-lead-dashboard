@@ -1,0 +1,49 @@
+:root {
+  --color-blue: #037EF3;
+  --color-navy: #003D7C;
+  --color-ink: #0B2545;
+  --color-bg: #F4F7FB;
+  --color-white: #FFFFFF;
+  --color-muted: #475569;
+  --color-border: #DDE5EF;
+  --color-blue-tint: #E6F1FE;
+  --color-input-border: #64748B;
+
+  --radius: 12px;
+  --shadow: 0 1px 2px rgba(11, 37, 69, 0.06), 0 4px 12px rgba(11, 37, 69, 0.04);
+
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.5;
+  color: var(--color-ink);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--color-white);
+}
+
+h1, h2, h3, p {
+  margin: 0;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-blue);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+  }
+}
