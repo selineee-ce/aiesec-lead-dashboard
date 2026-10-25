@@ -51,7 +51,6 @@ function App() {
             label="Conversion rate"
             value={`${metrics.conversionRate.toFixed(1)}%`}
             note="Converted / Total leads"
-            highlight
           />
           <KpiCard
             label="Pending Leads"

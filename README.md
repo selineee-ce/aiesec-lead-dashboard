@@ -8,7 +8,7 @@ All the data is made up. It isn't connected to EXPA.
 
 ![Dashboard screenshot](docs/screenshot1.png)
 
-**Live link:** 
+**Live link:** https://aiesec-lead-dashboard.vercel.app/ 
 
 ## Running it
 

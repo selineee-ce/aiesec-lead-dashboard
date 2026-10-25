@@ -14,7 +14,7 @@ function LeadsTable({ leads, totalInRange, searchQuery, onSearchChange }) {
             type="search"
             value={searchQuery}
             onChange={(e) => onSearchChange(e.target.value)}
-            placeholder="e.g. Alya or L-1001"
+            placeholder="  e.g. Alya or L-1001"
           />
         </div>
       </div>

@@ -37,9 +37,9 @@ function Sidebar() {
         </nav>
 
         <div className="sidebar__profile">
-          <span className="sidebar__avatar" aria-hidden="true">TM</span>
+          <span className="sidebar__avatar" aria-hidden="true">SE</span>
           <div>
-            <p className="sidebar__profile-name">Team Member</p>
+            <p className="sidebar__profile-name">Selinee</p>
             <p className="sidebar__profile-role">Viewer</p>
           </div>
         </div>
